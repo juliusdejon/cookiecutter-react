@@ -5,7 +5,7 @@ Install cookiecutter at https://cookiecutter.readthedocs.io/en/latest/
 ## Usage
 
 ```
-cookiecutter git@github.com:juliusdejon/cookiecutter-react.git
+cookiecutter https://github.com/juliusdejon/cookiecutter-react.git
 ```
 
 Enter your app name
