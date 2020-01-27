@@ -1,8 +1,8 @@
 import * as React from "react";
-import FormContainer from "./components/container/FormContainer";
+import HomePage from "./container/HomePage/HomePageRoot";
 
 export interface AppProps {}
 
-const App: React.SFC<AppProps> = props => <FormContainer />;
+const App: React.SFC<AppProps> = props => <HomePage />;
 
 export { App };
