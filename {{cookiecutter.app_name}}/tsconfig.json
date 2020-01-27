@@ -6,6 +6,8 @@
     "lib": ["es5", "es6", "dom"],
     "jsx": "react",
     "allowJs": false,
-    "moduleResolution": "node"
-  }
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules"],
 }
