@@ -1,5 +1,5 @@
 import * as React from "react";
-import HomePage from "./container/HomePage/HomePageRoot";
+import HomePage from "./container/HomePage/HomePage";
 import './app.scss';
 
 export interface AppProps {}

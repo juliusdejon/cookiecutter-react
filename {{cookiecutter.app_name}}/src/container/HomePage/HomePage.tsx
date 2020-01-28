@@ -1,12 +1,12 @@
 import * as React from "react";
 
-import { DatePicker } from 'antd';
+import './HomePage.scss';
+
 const HomePage: React.SFC = () => {
   return(
-    <div>
-      <DatePicker/>
-      Hello world
-    </div>
+    <article className="homepage">
+      <div>Hello World!</div>
+    </article>
   )
 }
 
